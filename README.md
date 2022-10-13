@@ -1,1 +1,2 @@
-This is an repository with a revenue page in HTML and CSS
+# Revenue page
+This is a revenue page repository to apply my apprenticeship, containing a revenue of waffles exemple.
